@@ -88,7 +88,7 @@ a{
   background:#1B2030 url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lusitano_Hengst_%28132668445%29.jpeg/1200px-Lusitano_Hengst_%28132668445%29.jpeg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
-  animation: grow 3600s  linear 10ms infinite;
+  animation: grow 3600s  linear 10ms limited-animation;
   transition:all 0.4s ease-in-out;
   z-index:-2
 }
